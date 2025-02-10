@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/chittreshmitra/Downloads/sinbad.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
